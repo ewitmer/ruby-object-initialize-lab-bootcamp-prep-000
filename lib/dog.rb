@@ -10,4 +10,4 @@ class Dog
   def breed=(new_breed)
 end
 
-Dog.new("Mutt")
+snoopy = Dog.new("Mutt")
